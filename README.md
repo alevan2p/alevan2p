@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alevan2p
-- 👀 I’m interested in research data management and data visualization (I'm a librarian)
+- 👀 I’m interested in research data management, especially as it pertains to the geophysical sciences community (I'm a librarian)
 - 🌱 I’m currently learning about the best ways to establish research data management and repository services within a library unit.
 - 💞️ I’m looking to collaborate on on RDM related projects. I also volunteer with EDGI as an analyst for the Website Governance Project (https://envirodatagov.org/website-governance/)
 - 📫 How to reach me: feel free to message me here.
